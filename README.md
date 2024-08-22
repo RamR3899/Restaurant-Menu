@@ -1,5 +1,3 @@
-To create a detailed README for your "Restaurant Menu" project, you can include the following sections:
-
 ---
 
 # Restaurant Menu
